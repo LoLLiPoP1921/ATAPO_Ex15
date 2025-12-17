@@ -6,4 +6,5 @@ install.
 https://docs.astral.sh/uv/getting-started/installation/#installation-methods
 
 uv sync
+
 uv run main.py
